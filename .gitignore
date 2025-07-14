@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore requirements.txt (optional if you prefer regenerating)
+# requirements.txt
+
+# Ignore VS Code settings (optional)
+.vscode/
